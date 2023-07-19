@@ -1,0 +1,17 @@
+.input-field {
+  width: 100%;
+  padding: 16px 19px;
+  border-radius: 10px;
+  background-color: rgba(245, 245, 245, 0.7);
+  border: none;
+  outline: none;
+  font-size: 20px;
+}
+
+.input-field::placeholder {
+  font-weight: 400;
+}
+
+.input-field.mb-2 {
+  margin-bottom: 34px;
+}

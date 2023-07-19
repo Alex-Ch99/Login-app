@@ -1,0 +1,62 @@
+.formulario {
+  max-width: 518px;
+  width: 518px;
+  background-color: rgba(15, 15, 15, 0.6);
+  border-radius: 10px;
+  padding-top: 60px;
+  padding-left: 79px;
+  padding-right: 79px;
+  padding-bottom: 74px;
+}
+
+.formulario-title {
+  text-transform: uppercase;
+  font-size: 40px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.formulario-inputs {
+  margin-top: 60px;
+}
+
+.formulario-remember {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.formulario-remember span {
+  color: rgba(220, 217, 217, 0.5);
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.formulario-button button {
+  width: 100%;
+  padding: 16px 0px;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: white;
+  background: rgba(89, 32, 130, 1);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.formulario-button button:hover {
+  opacity: 0.8;
+}
+
+.formulario-forgot {
+  display: block;
+  text-align: center;
+  margin-top: 1rem;
+  color: rgba(220, 217, 217, 0.5);
+}
+
+.formulario-redes {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 51px;
+}
